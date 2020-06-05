@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Employee name="Jan Kowalski">
+    <Age>30</Age>
+    <IsMale>True</IsMale>
+  </Employee>
+  <Employee name="Kasia Nowak">
+    <Age>25</Age>
+    <IsMale>false</IsMale>
+  </Employee>
+
+  <Employee name="Grażyna Testowa">
+    <Age>20</Age>
+    <IsMale>false</IsMale>
+  </Employee>
+</root>
